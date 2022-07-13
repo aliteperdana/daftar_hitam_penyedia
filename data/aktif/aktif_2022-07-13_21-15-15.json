@@ -1,0 +1,800 @@
+[
+    {
+        "id": 111222503,
+        "rkn_id": 6042036,
+        "sk": "B-1803.02.01\/6006\/VII\/2022",
+        "nama_penyedia": "PT.MANDAVA PUTRA UTAMA",
+        "npwp": "03.330.839.6-801.000",
+        "alamat": "jl. inspeksi PAM Pannara Kec. Manggala",
+        "alamat_tambahan": "--",
+        "direktur": "",
+        "npwp_direktur": "",
+        "repo_id": 36,
+        "tahun_anggaran": "2021",
+        "dibuat": "12-07-2022",
+        "sk_pencabutan": "",
+        "kabupaten": {
+            "id": 14947,
+            "nama": "Makassar (Kota)"
+        },
+        "provinsi": {
+            "id": 26,
+            "nama": "Sulawesi Selatan"
+        },
+        "satuan_kerja": {
+            "id": "102810",
+            "nama": "DINAS PEKERJAAN UMUM DAN PENATAAN RUANG"
+        },
+        "instansi": {
+            "id": "D389",
+            "nama": "Pemerintah Daerah Provinsi Sulawesi Barat"
+        },
+        "pelanggaran": [
+            {
+                "sk": "B-1803.02.01\/6006\/VII\/2022",
+                "started": "07-07-2022",
+                "expired": "07-07-2023",
+                "detil_pelanggaran": {
+                    "jenis_pelanggaran": "Peraturan LKPP  No.  4  Tahun  2021  Lampiran  II  angka  3.1 huruf g",
+                    "deskripsi": "<p>Penyedia yang tidak melaksanakan kontrak, tidak menyelesaikan pekerjaan, atau dilakukan pemutusan kontrak secara sepihak oleh PPK yang disebabkan oleh kesalahan Penyedia Barang\/Jasa<\/p>",
+                    "dibuat": "15-09-2021"
+                },
+                "published_date": "12-07-2022"
+            }
+        ],
+        "tenders": [
+            {
+                "id": 2913,
+                "source": "procurement",
+                "package_id": 5116263
+            }
+        ]
+    },
+    {
+        "id": 111222502,
+        "rkn_id": 3833015,
+        "sk": "188.4\/106\/KPTS\/105\/2022",
+        "nama_penyedia": "CV. Rizalindo Utama",
+        "npwp": "01.486.653.7-626.000",
+        "alamat": "Jln. Danau Toba I\/4, Jember",
+        "alamat_tambahan": "",
+        "direktur": "",
+        "npwp_direktur": "",
+        "repo_id": 15,
+        "tahun_anggaran": "2022",
+        "dibuat": "12-07-2022",
+        "sk_pencabutan": "",
+        "kabupaten": {
+            "id": 14838,
+            "nama": "Jember (Kab.)"
+        },
+        "provinsi": {
+            "id": 15,
+            "nama": "Jawa Timur"
+        },
+        "satuan_kerja": {
+            "id": "67147",
+            "nama": "DINAS PERUMAHAN RAKYAT KAWASAN PERMUKIMAN DAN CIPTA KARYA"
+        },
+        "instansi": {
+            "id": "D158",
+            "nama": "Pemerintah Daerah Provinsi Jawa Timur"
+        },
+        "pelanggaran": [
+            {
+                "sk": "188.4\/106\/KPTS\/105\/2022",
+                "started": "11-07-2022",
+                "expired": "11-07-2023",
+                "detil_pelanggaran": {
+                    "jenis_pelanggaran": "Peraturan LKPP  No.  4  Tahun  2021  Lampiran  II  angka  3.1 huruf g",
+                    "deskripsi": "<p>Penyedia yang tidak melaksanakan kontrak, tidak menyelesaikan pekerjaan, atau dilakukan pemutusan kontrak secara sepihak oleh PPK yang disebabkan oleh kesalahan Penyedia Barang\/Jasa<\/p>",
+                    "dibuat": "15-09-2021"
+                },
+                "published_date": "12-07-2022"
+            }
+        ],
+        "tenders": [
+            {
+                "id": 2912,
+                "source": "rup",
+                "package_id": 30042049
+            }
+        ]
+    },
+    {
+        "id": 111222501,
+        "rkn_id": 24571014,
+        "sk": "KN.01.01\/1\/3146\/2022",
+        "nama_penyedia": "MEDDINA KARYA UTAMA",
+        "npwp": "76.109.851.6-445.000",
+        "alamat": "KOMP. GANDASOLI INDAH BLOK A NO. 15, KATAPANG, BANDUNG 40971",
+        "alamat_tambahan": "",
+        "direktur": "",
+        "npwp_direktur": "",
+        "repo_id": 14,
+        "tahun_anggaran": "2022",
+        "dibuat": "12-07-2022",
+        "sk_pencabutan": "",
+        "kabupaten": {
+            "id": 14773,
+            "nama": "Bandung (Kab.)"
+        },
+        "provinsi": {
+            "id": 12,
+            "nama": "Jawa Barat"
+        },
+        "satuan_kerja": {
+            "id": "6921",
+            "nama": "BALAI BESAR TEHNIK KESEHATAN LINGKUNGAN DAN PENGENDALIAN PENYAKIT YOGYAKARTA"
+        },
+        "instansi": {
+            "id": "K9",
+            "nama": "Kementerian Kesehatan"
+        },
+        "pelanggaran": [
+            {
+                "sk": "KN.01.01\/1\/3146\/2022",
+                "started": "18-02-2022",
+                "expired": "18-02-2023",
+                "detil_pelanggaran": {
+                    "jenis_pelanggaran": "Peraturan LKPP  No.  4  Tahun  2021  Lampiran  II  angka  3.1 huruf g",
+                    "deskripsi": "<p>Penyedia yang tidak melaksanakan kontrak, tidak menyelesaikan pekerjaan, atau dilakukan pemutusan kontrak secara sepihak oleh PPK yang disebabkan oleh kesalahan Penyedia Barang\/Jasa<\/p>",
+                    "dibuat": "15-09-2021"
+                },
+                "published_date": "12-07-2022"
+            },
+            {
+                "sk": "3452\/BBPBAP\/PL.420\/IX\/2021",
+                "started": "15-09-2021",
+                "expired": "15-09-2022",
+                "detil_pelanggaran": {
+                    "jenis_pelanggaran": "Peraturan LKPP  No.  4  Tahun  2021  Lampiran  II  angka  3.1 huruf g",
+                    "deskripsi": "<p>Penyedia yang tidak melaksanakan kontrak, tidak menyelesaikan pekerjaan, atau dilakukan pemutusan kontrak secara sepihak oleh PPK yang disebabkan oleh kesalahan Penyedia Barang\/Jasa<\/p>",
+                    "dibuat": "15-09-2021"
+                },
+                "published_date": "06-01-2022"
+            }
+        ],
+        "tenders": [
+            {
+                "id": 2911,
+                "source": "procurement",
+                "package_id": 38076047
+            }
+        ]
+    },
+    {
+        "id": 111222500,
+        "rkn_id": 328014,
+        "sk": " KEP-62\/KPP.2607\/2022",
+        "nama_penyedia": "PT. Arjuna Satria Agung",
+        "npwp": "01.240.494.3-428.000",
+        "alamat": "Jl. Andir Komplek Kertalaksana No. 1 Bandung",
+        "alamat_tambahan": "",
+        "direktur": "",
+        "npwp_direktur": "",
+        "repo_id": 14,
+        "tahun_anggaran": "2022",
+        "dibuat": "11-07-2022",
+        "sk_pencabutan": "",
+        "kabupaten": {
+            "id": 14773,
+            "nama": "Bandung (Kab.)"
+        },
+        "provinsi": {
+            "id": 12,
+            "nama": "Jawa Barat"
+        },
+        "satuan_kerja": {
+            "id": "4704",
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BALIGE"
+        },
+        "instansi": {
+            "id": "K10",
+            "nama": "Kementerian Keuangan"
+        },
+        "pelanggaran": [
+            {
+                "sk": " KEP-62\/KPP.2607\/2022",
+                "started": "11-07-2022",
+                "expired": "11-07-2023",
+                "detil_pelanggaran": {
+                    "jenis_pelanggaran": "Peraturan LKPP  No.  4  Tahun  2021  Lampiran  II  angka  3.1 huruf h",
+                    "deskripsi": "<p>Penyedia tidak melaksanakan kewajiban dalam masa pemeliharaan sebagaimana mestinya.<\/p>",
+                    "dibuat": "15-09-2021"
+                },
+                "published_date": "11-07-2022"
+            },
+            {
+                "sk": "KEP-9\/BC.01\/KPA\/2022",
+                "started": "14-01-2022",
+                "expired": "14-01-2023",
+                "detil_pelanggaran": {
+                    "jenis_pelanggaran": "Peraturan LKPP  No.  4  Tahun  2021  Lampiran  II  angka  3.1 huruf g",
+                    "deskripsi": "<p>Penyedia yang tidak melaksanakan kontrak, tidak menyelesaikan pekerjaan, atau dilakukan pemutusan kontrak secara sepihak oleh PPK yang disebabkan oleh kesalahan Penyedia Barang\/Jasa<\/p>",
+                    "dibuat": "15-09-2021"
+                },
+                "published_date": "24-01-2022"
+            }
+        ],
+        "tenders": [
+            {
+                "id": 2910,
+                "source": "procurement",
+                "package_id": 32566011
+            }
+        ]
+    },
+    {
+        "id": 111222499,
+        "rkn_id": 117154,
+        "sk": "361\/KPTS\/Bb21.2\/2022",
+        "nama_penyedia": "PT. HERTO PERSADA SAKTI",
+        "npwp": "02.119.870.0-831.000",
+        "alamat": "JL. BATU MERAH INDAH NO. 4 PALU",
+        "alamat_tambahan": "",
+        "direktur": "",
+        "npwp_direktur": "",
+        "repo_id": 154,
+        "tahun_anggaran": "2022",
+        "dibuat": "08-07-2022",
+        "sk_pencabutan": "",
+        "kabupaten": {
+            "id": 14920,
+            "nama": "Palu (Kota)"
+        },
+        "provinsi": {
+            "id": 25,
+            "nama": "Sulawesi Tengah"
+        },
+        "satuan_kerja": {
+            "id": "139156",
+            "nama": "PELAKSANAAN JALAN NASIONAL WILAYAH II PROVINSI SULAWESI TENGGARA"
+        },
+        "instansi": {
+            "id": "K18",
+            "nama": "Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+        },
+        "pelanggaran": [
+            {
+                "sk": "361\/KPTS\/Bb21.2\/2022",
+                "started": "07-07-2022",
+                "expired": "07-07-2023",
+                "detil_pelanggaran": {
+                    "jenis_pelanggaran": "Peraturan LKPP  No.  4  Tahun  2021  Lampiran  II  angka  3.1 huruf g",
+                    "deskripsi": "<p>Penyedia yang tidak melaksanakan kontrak, tidak menyelesaikan pekerjaan, atau dilakukan pemutusan kontrak secara sepihak oleh PPK yang disebabkan oleh kesalahan Penyedia Barang\/Jasa<\/p>",
+                    "dibuat": "15-09-2021"
+                },
+                "published_date": "08-07-2022"
+            }
+        ],
+        "tenders": [
+            {
+                "id": 2909,
+                "source": "procurement",
+                "package_id": 72924064
+            }
+        ]
+    },
+    {
+        "id": 111222498,
+        "rkn_id": 4119047,
+        "sk": "42 Tahun 2022",
+        "nama_penyedia": "PT. JESSICA PARNA MEDIKA",
+        "npwp": "02.901.058.4-008.000",
+        "alamat": "JL. DUREN SAWIT RAYA, RUKO DUREN SAWIT CENTER NO. 8-S RT. 007\/010, Kel. Klender Kec. Duren Sawit",
+        "alamat_tambahan": "",
+        "direktur": "",
+        "npwp_direktur": "",
+        "repo_id": 47,
+        "tahun_anggaran": "2014",
+        "dibuat": "07-07-2022",
+        "sk_pencabutan": "",
+        "kabupaten": {
+            "id": 14749,
+            "nama": "Jakarta Timur (Kota)"
+        },
+        "provinsi": {
+            "id": 11,
+            "nama": "DKI Jakarta"
+        },
+        "satuan_kerja": {
+            "id": "162890",
+            "nama": "DINAS PEMUDA DAN OLAH RAGA"
+        },
+        "instansi": {
+            "id": "D69",
+            "nama": "Pemerintah Daerah Provinsi DKI Jakarta"
+        },
+        "pelanggaran": [
+            {
+                "sk": "42 Tahun 2022",
+                "started": "05-04-2022",
+                "expired": "05-04-2024",
+                "detil_pelanggaran": {
+                    "jenis_pelanggaran": "Peraturan LKPP  No.  4  Tahun  2021  Lampiran  II  angka  3.1 huruf b",
+                    "deskripsi": "<p>Peserta pemilihan terindikasi melakukan persekongkolan dengan peserta lain untuk mengatur harga penawaran<\/p>",
+                    "dibuat": "15-09-2021"
+                },
+                "published_date": "07-07-2022"
+            }
+        ],
+        "tenders": [
+            {
+                "id": 2908,
+                "source": "rup",
+                "package_id": 1428524
+            }
+        ]
+    },
+    {
+        "id": 111222497,
+        "rkn_id": 12386014,
+        "sk": "41 Tahun 2022",
+        "nama_penyedia": "PT. SOLUSI DATAMA TAFUJI",
+        "npwp": "02.342.395.7-008.000",
+        "alamat": "Ruko Duren Sawit Center No. 8-S, Jl. Raya Duren Sawit Klender",
+        "alamat_tambahan": "",
+        "direktur": "",
+        "npwp_direktur": "",
+        "repo_id": 14,
+        "tahun_anggaran": "2014",
+        "dibuat": "07-07-2022",
+        "sk_pencabutan": "",
+        "kabupaten": {
+            "id": 14749,
+            "nama": "Jakarta Timur (Kota)"
+        },
+        "provinsi": {
+            "id": 11,
+            "nama": "DKI Jakarta"
+        },
+        "satuan_kerja": {
+            "id": "162890",
+            "nama": "DINAS PEMUDA DAN OLAH RAGA"
+        },
+        "instansi": {
+            "id": "D69",
+            "nama": "Pemerintah Daerah Provinsi DKI Jakarta"
+        },
+        "pelanggaran": [
+            {
+                "sk": "41 Tahun 2022",
+                "started": "05-04-2022",
+                "expired": "05-04-2024",
+                "detil_pelanggaran": {
+                    "jenis_pelanggaran": "Peraturan LKPP  No.  4  Tahun  2021  Lampiran  II  angka  3.1 huruf b",
+                    "deskripsi": "<p>Peserta pemilihan terindikasi melakukan persekongkolan dengan peserta lain untuk mengatur harga penawaran<\/p>",
+                    "dibuat": "15-09-2021"
+                },
+                "published_date": "07-07-2022"
+            }
+        ],
+        "tenders": [
+            {
+                "id": 2907,
+                "source": "rup",
+                "package_id": 1230990
+            }
+        ]
+    },
+    {
+        "id": 111222495,
+        "rkn_id": 3069097,
+        "sk": "KEP-01\/KBC.1406\/KPA\/2022",
+        "nama_penyedia": "CV. Alfarezi Anugerah Abadi",
+        "npwp": "92.589.968.4-701.000",
+        "alamat": "Jl. Dr. Sutomo Komplek Batara Indah IV Blok B No. 24 Pontianak Kota",
+        "alamat_tambahan": "",
+        "direktur": "",
+        "npwp_direktur": "",
+        "repo_id": 97,
+        "tahun_anggaran": "2022",
+        "dibuat": "06-07-2022",
+        "sk_pencabutan": "",
+        "kabupaten": {
+            "id": 14861,
+            "nama": "Pontianak (Kota)"
+        },
+        "provinsi": {
+            "id": 20,
+            "nama": "Kalimantan Barat"
+        },
+        "satuan_kerja": {
+            "id": "5096",
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC JAGOI BABANG"
+        },
+        "instansi": {
+            "id": "K10",
+            "nama": "Kementerian Keuangan"
+        },
+        "pelanggaran": [
+            {
+                "sk": "KEP-01\/KBC.1406\/KPA\/2022",
+                "started": "17-03-2022",
+                "expired": "17-03-2023",
+                "detil_pelanggaran": {
+                    "jenis_pelanggaran": "Peraturan LKPP  No.  4  Tahun  2021  Lampiran  II  angka  3.1 huruf g",
+                    "deskripsi": "<p>Penyedia yang tidak melaksanakan kontrak, tidak menyelesaikan pekerjaan, atau dilakukan pemutusan kontrak secara sepihak oleh PPK yang disebabkan oleh kesalahan Penyedia Barang\/Jasa<\/p>",
+                    "dibuat": "15-09-2021"
+                },
+                "published_date": "06-07-2022"
+            }
+        ],
+        "tenders": [
+            {
+                "id": 2905,
+                "source": "rup",
+                "package_id": 29526160
+            }
+        ]
+    },
+    {
+        "id": 111222494,
+        "rkn_id": 2904016,
+        "sk": "602\/763\/CK\/VI\/2022",
+        "nama_penyedia": "PT. TELAGA PASIR KUTA",
+        "npwp": "02.084.007.0-424.000",
+        "alamat": "JL. SURYALAYA  XVIII NO.13, RT.10\/RW.04 BUAH BATU, KEL. CIJAGRA, KEC. LENGKONG.kota Bandung-JaBar",
+        "alamat_tambahan": "",
+        "direktur": "",
+        "npwp_direktur": "",
+        "repo_id": 16,
+        "tahun_anggaran": "2021",
+        "dibuat": "06-07-2022",
+        "sk_pencabutan": "",
+        "kabupaten": {
+            "id": 14765,
+            "nama": "Bandung (Kota)"
+        },
+        "provinsi": {
+            "id": 12,
+            "nama": "Jawa Barat"
+        },
+        "satuan_kerja": {
+            "id": "170326",
+            "nama": "Dinas Pekerjaan Umum Penataan Ruang dan Perumahan Rakyat"
+        },
+        "instansi": {
+            "id": "D241",
+            "nama": "Pemerintah Daerah Provinsi Kalimantan Timur"
+        },
+        "pelanggaran": [
+            {
+                "sk": "602\/763\/CK\/VI\/2022",
+                "started": "02-06-2022",
+                "expired": "02-06-2023",
+                "detil_pelanggaran": {
+                    "jenis_pelanggaran": "Peraturan LKPP  No.  4  Tahun  2021  Lampiran  II  angka  3.1 huruf g",
+                    "deskripsi": "<p>Penyedia yang tidak melaksanakan kontrak, tidak menyelesaikan pekerjaan, atau dilakukan pemutusan kontrak secara sepihak oleh PPK yang disebabkan oleh kesalahan Penyedia Barang\/Jasa<\/p>",
+                    "dibuat": "15-09-2021"
+                },
+                "published_date": "06-07-2022"
+            },
+            {
+                "sk": "50.1\/KPTS\/Bb10.8\/2022",
+                "started": "17-01-2022",
+                "expired": "17-01-2023",
+                "detil_pelanggaran": {
+                    "jenis_pelanggaran": "Peraturan LKPP  No.  4  Tahun  2021  Lampiran  II  angka  3.1 huruf g",
+                    "deskripsi": "<p>Penyedia yang tidak melaksanakan kontrak, tidak menyelesaikan pekerjaan, atau dilakukan pemutusan kontrak secara sepihak oleh PPK yang disebabkan oleh kesalahan Penyedia Barang\/Jasa<\/p>",
+                    "dibuat": "15-09-2021"
+                },
+                "published_date": "09-03-2022"
+            }
+        ],
+        "tenders": [
+            {
+                "id": 2904,
+                "source": "rup",
+                "package_id": 29689506
+            }
+        ]
+    },
+    {
+        "id": 111222493,
+        "rkn_id": 115259,
+        "sk": "HK.01.01\/RK\/PNP-JBI\/58",
+        "nama_penyedia": "cv. art cipta consultant",
+        "npwp": "31.675.337.5-331.000",
+        "alamat": "Jl. Patimura Perum Kembar Lestari II Blok DD. 30 RT. 56 Kel. Kenali Besar Kec. Kota Baru Jambi",
+        "alamat_tambahan": "",
+        "direktur": "",
+        "npwp_direktur": "",
+        "repo_id": 259,
+        "tahun_anggaran": "2019",
+        "dibuat": "05-07-2022",
+        "sk_pencabutan": "",
+        "kabupaten": {
+            "id": 14707,
+            "nama": "Jambi (Kota)"
+        },
+        "provinsi": {
+            "id": 5,
+            "nama": "Jambi"
+        },
+        "satuan_kerja": {
+            "id": "140866",
+            "nama": "SNVT PENYEDIAAN PERUMAHAN PROVINSI JAMBI"
+        },
+        "instansi": {
+            "id": "K18",
+            "nama": "Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+        },
+        "pelanggaran": [
+            {
+                "sk": "HK.01.01\/RK\/PNP-JBI\/58",
+                "started": "28-06-2022",
+                "expired": "28-06-2023",
+                "detil_pelanggaran": {
+                    "jenis_pelanggaran": "Peraturan LKPP  No.  4  Tahun  2021  Lampiran  II  angka  3.1 huruf g",
+                    "deskripsi": "<p>Penyedia yang tidak melaksanakan kontrak, tidak menyelesaikan pekerjaan, atau dilakukan pemutusan kontrak secara sepihak oleh PPK yang disebabkan oleh kesalahan Penyedia Barang\/Jasa<\/p>",
+                    "dibuat": "15-09-2021"
+                },
+                "published_date": "06-07-2022"
+            }
+        ],
+        "tenders": [
+            {
+                "id": 2903,
+                "source": "rup",
+                "package_id": 22005131
+            }
+        ]
+    },
+    {
+        "id": 111222492,
+        "rkn_id": 4624034,
+        "sk": "HK.01.01\/RK\/PNP-JBI\/59",
+        "nama_penyedia": "cv.mega data konsulindo jaya",
+        "npwp": "76.181.990.3-412.000",
+        "alamat": "wisma harapan 2 blok d no. 6",
+        "alamat_tambahan": "Mekar sari, cimanggis, depok",
+        "direktur": "",
+        "npwp_direktur": "",
+        "repo_id": 34,
+        "tahun_anggaran": "2019",
+        "dibuat": "05-07-2022",
+        "sk_pencabutan": "",
+        "kabupaten": {
+            "id": 14776,
+            "nama": "Depok (Kota)"
+        },
+        "provinsi": {
+            "id": 12,
+            "nama": "Jawa Barat"
+        },
+        "satuan_kerja": {
+            "id": "140866",
+            "nama": "SNVT PENYEDIAAN PERUMAHAN PROVINSI JAMBI"
+        },
+        "instansi": {
+            "id": "K18",
+            "nama": "Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+        },
+        "pelanggaran": [
+            {
+                "sk": "HK.01.01\/RK\/PNP-JBI\/59",
+                "started": "28-06-2022",
+                "expired": "28-06-2023",
+                "detil_pelanggaran": {
+                    "jenis_pelanggaran": "Peraturan LKPP  No.  4  Tahun  2021  Lampiran  II  angka  3.1 huruf g",
+                    "deskripsi": "<p>Penyedia yang tidak melaksanakan kontrak, tidak menyelesaikan pekerjaan, atau dilakukan pemutusan kontrak secara sepihak oleh PPK yang disebabkan oleh kesalahan Penyedia Barang\/Jasa<\/p>",
+                    "dibuat": "15-09-2021"
+                },
+                "published_date": "06-07-2022"
+            }
+        ],
+        "tenders": [
+            {
+                "id": 2902,
+                "source": "procurement",
+                "package_id": 53852064
+            }
+        ]
+    },
+    {
+        "id": 111222491,
+        "rkn_id": 28769011,
+        "sk": "9.K\/HK.02\/KPA.SJD\/2022",
+        "nama_penyedia": "CV.Tamaro Nusantara",
+        "npwp": "73.703.755.6-451.000",
+        "alamat": "Perum Legok Indah Blok B18 NO.1 RT.004\/010 Kel.Babakan Kec.Legok",
+        "alamat_tambahan": "",
+        "direktur": "",
+        "npwp_direktur": "",
+        "repo_id": 11,
+        "tahun_anggaran": "2022",
+        "dibuat": "05-07-2022",
+        "sk_pencabutan": "",
+        "kabupaten": {
+            "id": 15050,
+            "nama": "Tangerang (Kab.)"
+        },
+        "provinsi": {
+            "id": 16,
+            "nama": "Banten"
+        },
+        "satuan_kerja": {
+            "id": "90862",
+            "nama": "PUSAT DATA DAN TEKNOLOGI INFORMASI"
+        },
+        "instansi": {
+            "id": "K4",
+            "nama": "Kementerian Energi Dan Sumber Daya Mineral"
+        },
+        "pelanggaran": [
+            {
+                "sk": "9.K\/HK.02\/KPA.SJD\/2022",
+                "started": "27-06-2022",
+                "expired": "27-06-2023",
+                "detil_pelanggaran": {
+                    "jenis_pelanggaran": "Peraturan LKPP  No.  4  Tahun  2021  Lampiran  II  angka  3.1 huruf g",
+                    "deskripsi": "<p>Penyedia yang tidak melaksanakan kontrak, tidak menyelesaikan pekerjaan, atau dilakukan pemutusan kontrak secara sepihak oleh PPK yang disebabkan oleh kesalahan Penyedia Barang\/Jasa<\/p>",
+                    "dibuat": "15-09-2021"
+                },
+                "published_date": "05-07-2022"
+            }
+        ],
+        "tenders": [
+            {
+                "id": 2901,
+                "source": "procurement",
+                "package_id": 9777109
+            }
+        ]
+    },
+    {
+        "id": 111222490,
+        "rkn_id": 1028245,
+        "sk": "NOMOR 2141\/UN44\/HK.06\/2022 TAHUN 2022",
+        "nama_penyedia": "PT. PILAR PRATAMA UTAMA",
+        "npwp": "43.651.166.1-401.000",
+        "alamat": "Taman Banjar agung indah blok F 45 no 5 Banjar Agung kota serang",
+        "alamat_tambahan": "",
+        "direktur": "",
+        "npwp_direktur": "",
+        "repo_id": 245,
+        "tahun_anggaran": "2022",
+        "dibuat": "28-06-2022",
+        "sk_pencabutan": "",
+        "kabupaten": {
+            "id": 16002,
+            "nama": "Serang (Kota)"
+        },
+        "provinsi": {
+            "id": 16,
+            "nama": "Banten"
+        },
+        "satuan_kerja": {
+            "id": "163234",
+            "nama": "UNIVERSITAS KHAIRUN"
+        },
+        "instansi": {
+            "id": "K23",
+            "nama": "Kementerian Pendidikan dan Kebudayaan"
+        },
+        "pelanggaran": [
+            {
+                "sk": "NOMOR 2141\/UN44\/HK.06\/2022 TAHUN 2022",
+                "started": "22-06-2022",
+                "expired": "22-06-2023",
+                "detil_pelanggaran": {
+                    "jenis_pelanggaran": "Peraturan LKPP  No.  4  Tahun  2021  Lampiran  II  angka  3.1 huruf g",
+                    "deskripsi": "<p>Penyedia yang tidak melaksanakan kontrak, tidak menyelesaikan pekerjaan, atau dilakukan pemutusan kontrak secara sepihak oleh PPK yang disebabkan oleh kesalahan Penyedia Barang\/Jasa<\/p>",
+                    "dibuat": "15-09-2021"
+                },
+                "published_date": "28-06-2022"
+            }
+        ],
+        "tenders": [
+            {
+                "id": 2900,
+                "source": "procurement",
+                "package_id": 13820025
+            }
+        ]
+    },
+    {
+        "id": 111222487,
+        "rkn_id": 2351035,
+        "sk": "B-20001\/PL.010\/F2.K\/06\/2022",
+        "nama_penyedia": "PT. Darul Ehsan Jaya",
+        "npwp": "02.594.719.3-722.000",
+        "alamat": "Jl. KH. Wahid Hasyim No. 26C RT. 013  Kel. Sempaja Selatan, Samarinda",
+        "alamat_tambahan": "",
+        "direktur": "",
+        "npwp_direktur": "",
+        "repo_id": 35,
+        "tahun_anggaran": "2021",
+        "dibuat": "27-06-2022",
+        "sk_pencabutan": "",
+        "kabupaten": {
+            "id": 14903,
+            "nama": "Samarinda (Kota)"
+        },
+        "provinsi": {
+            "id": 23,
+            "nama": "Kalimantan Timur"
+        },
+        "satuan_kerja": {
+            "id": "5528",
+            "nama": "BALAI BESAR INSEMINASI BUATAN  SINGOSARI"
+        },
+        "instansi": {
+            "id": "K29",
+            "nama": "Kementerian Pertanian"
+        },
+        "pelanggaran": [
+            {
+                "sk": "B-20001\/PL.010\/F2.K\/06\/2022",
+                "started": "20-06-2022",
+                "expired": "20-06-2023",
+                "detil_pelanggaran": {
+                    "jenis_pelanggaran": "Peraturan LKPP  No.  4  Tahun  2021  Lampiran  II  angka  3.1 huruf g",
+                    "deskripsi": "<p>Penyedia yang tidak melaksanakan kontrak, tidak menyelesaikan pekerjaan, atau dilakukan pemutusan kontrak secara sepihak oleh PPK yang disebabkan oleh kesalahan Penyedia Barang\/Jasa<\/p>",
+                    "dibuat": "15-09-2021"
+                },
+                "published_date": "27-06-2022"
+            }
+        ],
+        "tenders": [
+            {
+                "id": 2897,
+                "source": "rup",
+                "package_id": 29936829
+            }
+        ]
+    },
+    {
+        "id": 111222486,
+        "rkn_id": 164464,
+        "sk": "523\/373\/DKP\/2022",
+        "nama_penyedia": "CV. ESA ELEKTRIKAL",
+        "npwp": "02.972.919.9-912.000",
+        "alamat": "Jln. Ir. Soetami No. 16 RT009 RW.003 Kelurahan Kumbe",
+        "alamat_tambahan": "",
+        "direktur": "",
+        "npwp_direktur": "",
+        "repo_id": 464,
+        "tahun_anggaran": "2022",
+        "dibuat": "24-06-2022",
+        "sk_pencabutan": "",
+        "kabupaten": {
+            "id": 14979,
+            "nama": "Dompu (Kab.)"
+        },
+        "provinsi": {
+            "id": 18,
+            "nama": "Nusa Tenggara Barat"
+        },
+        "satuan_kerja": {
+            "id": "53147",
+            "nama": "Dinas Kelautan dan Perikanan Kabupaten Dompu"
+        },
+        "instansi": {
+            "id": "N1",
+            "nama": "Pemerintah Daerah Kabupaten Dompu"
+        },
+        "pelanggaran": [
+            {
+                "sk": "523\/373\/DKP\/2022",
+                "started": "15-06-2022",
+                "expired": "15-06-2023",
+                "detil_pelanggaran": {
+                    "jenis_pelanggaran": "Peraturan LKPP  No.  4  Tahun  2021  Lampiran  II  angka  3.1 huruf g",
+                    "deskripsi": "<p>Penyedia yang tidak melaksanakan kontrak, tidak menyelesaikan pekerjaan, atau dilakukan pemutusan kontrak secara sepihak oleh PPK yang disebabkan oleh kesalahan Penyedia Barang\/Jasa<\/p>",
+                    "dibuat": "15-09-2021"
+                },
+                "published_date": "24-06-2022"
+            }
+        ],
+        "tenders": [
+            {
+                "id": 2896,
+                "source": "rup",
+                "package_id": 29141134
+            }
+        ]
+    }
+]
