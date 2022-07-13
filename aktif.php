@@ -1,6 +1,10 @@
 <?php
 include 'functions.php';
 
+if (find_file_hari_ini("aktif")) {
+    die();
+}
+
 $api_url = "https://inaproc.id/api/blacklist/";
 $fetch_data_from_api = file_get_contents($api_url);
 $data = json_decode($fetch_data_from_api,true);

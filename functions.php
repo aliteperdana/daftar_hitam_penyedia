@@ -19,3 +19,21 @@ function nama_file($jenis){
 function get_date(){
     return date("Y-m-d_H-i-s");
 }
+
+function find_file_hari_ini($jenis){
+    if (strtolower($jenis) == "aktif") {
+        $jenis = "aktif";
+        $nama_file = "aktif_";
+        $direktori = "data/aktif/";
+    }
+
+    $tanggal_hari_ini = date("Y-m-d");
+    $keyword = $direktori.$nama_file.$tanggal_hari_ini."*";
+    $files = glob($keyword);
+
+    if(count($files)>0){
+        return true;
+    }
+
+    return false;
+}
