@@ -5,11 +5,11 @@ function nama_file($jenis){
     if (strtolower($jenis) == "aktif") {
         $jenis = "aktif";
         $nama_file = "aktif_";
-        $direktori = "/data/aktif/";
+        $direktori = "data/aktif/";
     }
     $jenis = "aktif";
     $nama_file = "aktif_";
-    $direktori = "/data/aktif/";
+    $direktori = "data/aktif/";
     $tanggal = get_date();
 
     return $direktori.$nama_file.$tanggal.".json";
