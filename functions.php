@@ -1,5 +1,6 @@
 <?php
 date_default_timezone_set('Asia/Jakarta');
+require_once "simple_html_dom.php";
 
 function nama_file($jenis){
     if (strtolower($jenis) == "aktif") {
@@ -36,4 +37,32 @@ function find_file_hari_ini($jenis){
     }
 
     return false;
+}
+
+function find_last_page($html){
+    foreach ($html->find("div[class=pagination]") as $key) {
+        return $key->find("a",-1)->plaintext;
+    }
+}
+
+function find_script($html){
+    foreach ($html->find('script',-1) as $key) {
+        if (is_object($key)) {
+            break;
+        }
+
+        if(is_array($key)){
+            foreach($key as $data){     
+                if (strpos($data->plaintext, 'var daftarHitamCollection')) {
+                   return $data->plaintext;
+                }
+            }
+        }
+    }
+}
+
+function ambil_data_dari_script($script){
+    $ss = explode('var promise',$script);
+    $sss = explode('var daftarHitamCollection = ',$ss[0]);
+    return rtrim($sss[1],';');
 }
